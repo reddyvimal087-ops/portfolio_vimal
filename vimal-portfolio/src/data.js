@@ -12,7 +12,7 @@ export const profile = {
   linkedin: 'https://linkedin.com/in/vimalreddy-pannala',
   github: 'https://github.com/reddyvimal087-ops',
   resume: '/Vimal_Reddy_Pannala_Resume.pdf',
-  photo: null, // e.g. '/profile.jpg' after adding the image to /public
+  photo: '/public/vimal_profile_pic.jpeg', // e.g. '/profile.jpg' after adding the image to /public
 }
 
 export const navLinks = [
